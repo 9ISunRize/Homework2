@@ -2,18 +2,19 @@ public class Main {
 
     public static void main(String[] args) {
         //write your code here
-        var dog = 8;
+        var dog = 12;
         System.out.println(dog);
-        var cat = 3.6;
+        var cat = 7.6;
         System.out.println(cat);
-        var paper = 763789;
+        var paper = 763793;
         System.out.println(paper);
-        dog = dog + 4;
+        dog = dog - 3;
         System.out.println(dog);
-        cat = cat + 4;
+        cat = cat - 1.6;
         System.out.println(cat);
-        paper = paper + 4;
+        paper = paper - 7639;
         System.out.println(paper);
+
 
     }
 
